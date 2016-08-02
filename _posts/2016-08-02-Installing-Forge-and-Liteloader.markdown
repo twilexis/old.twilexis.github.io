@@ -4,7 +4,7 @@ date: 2016-08-01 15:04:23
 categories: [minecraft, forge, liteloader]
 tags: [minecraft, forge, liteloader]
 ---
-
+<!--more-->
 First thing we need to do is [download minecraft](https://www.minecraft.net/en/download/ "minecraft.net") and run the installer.
 
 Once you have done that, open minecraft and click Edit Profile, which is located under the Profile dropdown on the bottom left.
@@ -17,7 +17,7 @@ Scroll down to Use Version, click the dropdown and change the version to 1.9 and
 
 Go to the [Forge website.](http://files.minecraftforge.net/ "Forge")
 
-Navigate to the correct version of forge and download.
+Navigate to the correct version of forge and download the installer.
 
 ![alt text](http://imgur.com/0GhWPuu.png)
 
