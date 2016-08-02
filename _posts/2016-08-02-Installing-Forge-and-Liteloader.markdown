@@ -4,7 +4,7 @@ date: 2016-08-01 15:04:23
 categories: [minecraft, forge, liteloader]
 tags: [minecraft, forge, liteloader]
 ---
-<!--more-->
+
 First thing we need to do is [download minecraft](https://www.minecraft.net/en/download/ "minecraft.net") and run the installer.
 
 Once you have done that, open minecraft and click Edit Profile, which is located under the Profile dropdown on the bottom left.
