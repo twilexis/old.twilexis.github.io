@@ -19,7 +19,7 @@ Go to the [Forge website.](http://files.minecraftforge.net/ "Forge")
 
 Navigate to the correct version of forge and download the installer.
 
-![alt text](http://imgur.com/0GhWPuu.png)
+![alt text](http://imgur.com/0GhWPuu.png =900x)
 
 Go to your downloads folder and install forge (download and install [java](http://www.java.com/en/) if .jar doesn’t run) 
 
