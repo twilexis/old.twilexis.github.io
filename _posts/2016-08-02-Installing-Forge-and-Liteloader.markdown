@@ -26,7 +26,7 @@ Go to the [Forge website.](http://files.minecraftforge.net/ "Forge")
 Navigate to the correct version of forge and download the installer.
 
 
-![alt text](http://imgur.com/0GhWPuu.png =900x)
+![alt text](/images/posts/forgeliteloader/Forge1.png)
 
 
 Go to your downloads folder and install forge (download and install [java](http://www.java.com/en/) if .jar doesn’t run) 
@@ -47,7 +47,7 @@ Run minecraft to the splash screen then close.
 Download [liteloader.](http://www.liteloader.com/download "liteloader website")
 
 
-![alt text](http://imgur.com/htkgO9g.png)
+![alt text](/images/posts/forgeliteloader/Liteloader1.png)
 
 
 Installing liteloader so it runs with forge is one extra step. Click the dropdown next to Extend From and select the version of Forge. You can rename the profile at this step if you like by editing the New Profile box, then click Okay.
